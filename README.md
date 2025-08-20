@@ -1,6 +1,6 @@
-🔗 Drum-Kit 
- Link => 
-🥁 Drum Kit
+🥁 Drum Kit Project
+🔗 Link => 
+
 
 A fun and interactive Drum Kit Website built using HTML, CSS, and JavaScript.
 Play the drums by clicking on the drum images or pressing the respective keyboard keys (w, a, s, d, j, k, l).
